@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="java-jvm" />
+        <module name="java-object" />
+        <module name="javaobject" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="java-jvm" target="1.8" />
+      <module name="java-object" target="1.8" />
+      <module name="JavaBasciLearing" target="1.8" />
+      <module name="javaobject" target="1.8" />
+      <module name="object" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

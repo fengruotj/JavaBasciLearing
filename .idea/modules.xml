@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaBasciLearing.iml" filepath="$PROJECT_DIR$/JavaBasciLearing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-jvm/java-jvm.iml" filepath="$PROJECT_DIR$/java-jvm/java-jvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-object/java-object.iml" filepath="$PROJECT_DIR$/java-object/java-object.iml" />
+    </modules>
+  </component>
+</project>
