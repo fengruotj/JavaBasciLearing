@@ -6,13 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="java-initialization" />
         <module name="java-jvm" />
+        <module name="java-multiplex" />
         <module name="java-object" />
         <module name="javaobject" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="java-initialization" target="1.8" />
       <module name="java-jvm" target="1.8" />
+      <module name="java-multiplex" target="1.8" />
       <module name="java-object" target="1.8" />
       <module name="JavaBasciLearing" target="1.8" />
       <module name="javaobject" target="1.8" />

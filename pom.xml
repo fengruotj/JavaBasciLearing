@@ -11,6 +11,8 @@
   <modules>
     <module>java-object</module>
     <module>java-jvm</module>
+    <module>java-initialization</module>
+    <module>java-multiplex</module>
   </modules>
 
   <name>JavaBasciLearing</name>
