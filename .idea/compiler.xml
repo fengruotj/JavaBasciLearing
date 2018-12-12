@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="java-container" />
         <module name="java-initialization" />
         <module name="java-innerclass" />
         <module name="java-interface" />
@@ -15,6 +16,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="java-container" target="1.8" />
       <module name="java-initialization" target="1.8" />
       <module name="java-innerclass" target="1.8" />
       <module name="java-interface" target="1.8" />

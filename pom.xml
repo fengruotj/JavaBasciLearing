@@ -16,6 +16,7 @@
       <module>java-interface</module>
     <module>java-innerclass</module>
     <module>java-polymorphic</module>
+    <module>java-container</module>
   </modules>
 
   <name>JavaBasciLearing</name>
