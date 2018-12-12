@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaBasciLearing.iml" filepath="$PROJECT_DIR$/JavaBasciLearing.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-initialization/java-initialization.iml" filepath="$PROJECT_DIR$/java-initialization/java-initialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-innerclass/java-innerclass.iml" filepath="$PROJECT_DIR$/java-innerclass/java-innerclass.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-interface/java-interface.iml" filepath="$PROJECT_DIR$/java-interface/java-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-multiplex/java-multiplex.iml" filepath="$PROJECT_DIR$/java-multiplex/java-multiplex.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-object/java-object.iml" filepath="$PROJECT_DIR$/java-object/java-object.iml" />
