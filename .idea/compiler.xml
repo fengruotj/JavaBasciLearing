@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="java-initialization" />
+        <module name="java-interface" />
         <module name="java-multiplex" />
         <module name="java-polymorphic" />
         <module name="java-polymorphism" />
@@ -15,6 +16,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="java-initialization" target="1.8" />
+      <module name="java-interface" target="1.8" />
       <module name="java-jvm" target="1.8" />
       <module name="java-multiplex" target="1.8" />
       <module name="java-object" target="1.8" />

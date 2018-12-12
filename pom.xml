@@ -13,6 +13,7 @@
     <module>java-jvm</module>
     <module>java-initialization</module>
     <module>java-multiplex</module>
+      <module>java-interface</module>
   </modules>
 
   <name>JavaBasciLearing</name>
