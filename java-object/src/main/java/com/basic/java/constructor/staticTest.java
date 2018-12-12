@@ -7,7 +7,7 @@ package com.basic.java.constructor;
 public class staticTest {
 
     public static void main(String[] args) {
-        new MyClass();
+        MyClass myClass=new MyClass();
     }
 }
 

@@ -15,6 +15,7 @@
     <module>java-multiplex</module>
       <module>java-interface</module>
     <module>java-innerclass</module>
+    <module>java-polymorphic</module>
   </modules>
 
   <name>JavaBasciLearing</name>

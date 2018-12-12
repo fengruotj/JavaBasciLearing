@@ -9,9 +9,8 @@
         <module name="java-initialization" />
         <module name="java-innerclass" />
         <module name="java-interface" />
+        <module name="java-jvm" />
         <module name="java-multiplex" />
-        <module name="java-polymorphic" />
-        <module name="java-polymorphism" />
         <module name="javaobject" />
       </profile>
     </annotationProcessing>
