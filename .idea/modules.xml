@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-multiplex/java-multiplex.iml" filepath="$PROJECT_DIR$/java-multiplex/java-multiplex.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-object/java-object.iml" filepath="$PROJECT_DIR$/java-object/java-object.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-polymorphic/java-polymorphic.iml" filepath="$PROJECT_DIR$/java-polymorphic/java-polymorphic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-string/java-string.iml" filepath="$PROJECT_DIR$/java-string/java-string.iml" />
     </modules>
   </component>
 </project>
