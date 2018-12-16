@@ -18,6 +18,7 @@
     <module>java-polymorphic</module>
     <module>java-container</module>
       <module>java-string</module>
+      <module>java-classtype</module>
   </modules>
 
   <name>JavaBasciLearing</name>

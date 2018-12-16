@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaBasciLearing.iml" filepath="$PROJECT_DIR$/JavaBasciLearing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-classtype/java-classtype.iml" filepath="$PROJECT_DIR$/java-classtype/java-classtype.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-container/java-container.iml" filepath="$PROJECT_DIR$/java-container/java-container.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-initialization/java-initialization.iml" filepath="$PROJECT_DIR$/java-initialization/java-initialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-innerclass/java-innerclass.iml" filepath="$PROJECT_DIR$/java-innerclass/java-innerclass.iml" />
