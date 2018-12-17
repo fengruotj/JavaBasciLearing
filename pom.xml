@@ -19,6 +19,7 @@
     <module>java-container</module>
       <module>java-string</module>
       <module>java-classtype</module>
+    <module>java-generics</module>
   </modules>
 
   <name>JavaBasciLearing</name>
