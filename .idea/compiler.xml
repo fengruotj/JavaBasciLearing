@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="java-classtype" />
         <module name="java-container" />
+        <module name="java-enum" />
         <module name="java-generics" />
         <module name="java-initialization" />
         <module name="java-innerclass" />
@@ -22,6 +23,7 @@
     <bytecodeTargetLevel>
       <module name="java-classtype" target="1.8" />
       <module name="java-container" target="1.8" />
+      <module name="java-enum" target="1.8" />
       <module name="java-generics" target="1.8" />
       <module name="java-initialization" target="1.8" />
       <module name="java-innerclass" target="1.8" />

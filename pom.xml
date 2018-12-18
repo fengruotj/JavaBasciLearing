@@ -21,6 +21,7 @@
       <module>java-classtype</module>
     <module>java-generics</module>
       <module>java-io</module>
+      <module>java-enum</module>
   </modules>
 
   <name>JavaBasciLearing</name>
