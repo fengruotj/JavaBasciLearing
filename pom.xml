@@ -20,6 +20,7 @@
       <module>java-string</module>
       <module>java-classtype</module>
     <module>java-generics</module>
+      <module>java-io</module>
   </modules>
 
   <name>JavaBasciLearing</name>
