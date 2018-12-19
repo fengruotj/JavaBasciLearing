@@ -22,6 +22,7 @@
     <module>java-generics</module>
       <module>java-io</module>
       <module>java-enum</module>
+    <module>java-annotation</module>
   </modules>
 
   <name>JavaBasciLearing</name>
