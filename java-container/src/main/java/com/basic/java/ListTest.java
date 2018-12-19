@@ -13,5 +13,8 @@ public class ListTest {
     public static void main(String[] args) {
         List<String> list=new ArrayList<>(Arrays.asList("tanjie","liuchong","chenze"));
         ListIterator<String> listIterator = list.listIterator();
+
+        List<String> stringList = Arrays.asList("tanjie", "liuchong", "chenze");
+        System.out.println(stringList.getClass());
     }
 }
