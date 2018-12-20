@@ -52,7 +52,7 @@ public class volatileTest {
             executor.execute(new Runnable() {
                 @Override
                 public void run() {
-                    for (int j = 0; j < 1000; j++) {
+                    for (int j = 0; j < 10000; j++) {
                         simple.add();
                     }
                 }
@@ -73,7 +73,7 @@ public class volatileTest {
             executor.execute(new Runnable() {
                 @Override
                 public void run() {
-                    for (int j = 0; j < 1000; j++) {
+                    for (int j = 0; j < 10000; j++) {
                         volatileSimple.add();
                     }
                 }
@@ -94,7 +94,7 @@ public class volatileTest {
             executor.execute(new Runnable() {
                 @Override
                 public void run() {
-                    for (int j = 0; j < 1000; j++) {
+                    for (int j = 0; j < 10000; j++) {
                         synchronizedSimple.add();
                     }
                 }
@@ -107,11 +107,5 @@ public class volatileTest {
             e.printStackTrace();
         }
         System.out.println(synchronizedSimple.getI());
-    }
-
-    public static void main(String[] args) {
-        //testSimple();
-        //testVolatileSimple();
-        testSynchronizedSimple();
     }
 }
