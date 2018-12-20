@@ -1,8 +1,6 @@
 package com.basic.java;
 
-import java.util.ArrayDeque;
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.*;
 
 /**
  * locate com.basic.java
@@ -12,5 +10,6 @@ public class QueueTest {
     public static void main(String[] args) {
         Queue<String> queue1=new ArrayDeque<>();
         Queue<String> queue2=new LinkedList<>();
+        Queue<String> queue=new PriorityQueue<>();
     }
 }
