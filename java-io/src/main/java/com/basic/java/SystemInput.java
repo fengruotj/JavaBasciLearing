@@ -6,8 +6,8 @@ import java.io.InputStreamReader;
 
 /**
  * locate com.basic.java
- * Created by MasterTj on 2018/12/24.
- */
+         * Created by MasterTj on 2018/12/24.
+         */
 public class SystemInput {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader=new BufferedReader(new InputStreamReader(System.in));
