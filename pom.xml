@@ -23,6 +23,7 @@
       <module>java-io</module>
       <module>java-enum</module>
     <module>java-annotation</module>
+      <module>java-exception</module>
   </modules>
 
   <name>JavaBasciLearing</name>
