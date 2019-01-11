@@ -24,6 +24,7 @@
       <module>java-enum</module>
     <module>java-annotation</module>
       <module>java-exception</module>
+    <module>java-proxy</module>
   </modules>
 
   <name>JavaBasciLearing</name>

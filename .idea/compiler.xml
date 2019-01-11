@@ -18,6 +18,7 @@
         <module name="java-io" />
         <module name="java-jvm" />
         <module name="java-multiplex" />
+        <module name="java-proxy" />
         <module name="java-string" />
         <module name="javaobject" />
       </profile>
@@ -38,6 +39,7 @@
       <module name="java-object" target="1.8" />
       <module name="java-polymorphic" target="1.8" />
       <module name="java-polymorphism" target="1.8" />
+      <module name="java-proxy" target="1.8" />
       <module name="java-string" target="1.8" />
       <module name="JavaBasciLearing" target="1.8" />
       <module name="javaobject" target="1.8" />
