@@ -9,7 +9,7 @@ import java.util.List;
  */
 public class ListFun {
     public static void main(String[] args) {
-        List list=new ArrayList<>();
+        List<Fruit> list=new ArrayList<>();
         list.add(new Fruit());
         list.add(new Apple());
         list.add(new Orange());
